@@ -1,0 +1,12 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# 本地环境，禁止提交
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store

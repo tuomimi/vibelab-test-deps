@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VibeLab Deps</string>
+    <string name="hello_title">依赖解析测试</string>
+    <string name="hello_info">AppCompat / ConstraintLayout / Material 三个公开依赖，验证云端能从 Google Maven 正常拉取传递依赖并完成资源合并</string>
+    <string name="action_check">点击验证页面可用</string>
+</resources>
